@@ -1,4 +1,4 @@
-# Coffee Vending Machine Sales Analysis
+# Coffee Sales Analysis
 Project Overview
 This project focuses on analyzing daily transaction data from a coffee vending machine using Power BI. The dataset spans from March 2024 to the present and is continuously updated. The analysis aims to uncover insights into purchasing patterns, sales trends, and customer preferences, helping to optimize operations and improve business decision-making.
 
